@@ -1,2 +1,2 @@
 # tabular-synthetic-data-generation
-IEEE BigComp 2024
+To be written (for IEEE BigComp 2024)
